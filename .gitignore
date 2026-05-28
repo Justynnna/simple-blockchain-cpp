@@ -1,0 +1,12 @@
+# Pliki CLiona i CMake
+.idea/
+cmake-build-debug/
+cmake-build-release/
+
+# Pliki binarne i kompilacji
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.lib
